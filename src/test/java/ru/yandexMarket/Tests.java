@@ -12,7 +12,6 @@ public class Tests extends Steps{
         setManufacturers();
         priceFilter();
         selectFiveElements();
-//        inputSerch();
         assertFirstElement();
     }
 }

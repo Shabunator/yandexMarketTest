@@ -106,12 +106,6 @@ public class Steps extends WebDriverSettings {
         }
     }
 
-//    @Test
-//    public void inputSerch() {
-//        waitFor(SEARCHFIELD).sendKeys(secondElement);
-//        waitFor(SUBMITBUTTON).click();
-//    }
-
     @Test
     public void assertFirstElement() {
 
